@@ -1,0 +1,17 @@
+C:\Users\jets01\RiderProjects\Event\EventApp\EventApp.Repository\bin\Debug\net7.0\EventApp.Repository.deps.json
+C:\Users\jets01\RiderProjects\Event\EventApp\EventApp.Repository\bin\Debug\net7.0\EventApp.Repository.dll
+C:\Users\jets01\RiderProjects\Event\EventApp\EventApp.Repository\bin\Debug\net7.0\EventApp.Repository.pdb
+C:\Users\jets01\RiderProjects\Event\EventApp\EventApp.Repository\bin\Debug\net7.0\EventApp.Domain.dll
+C:\Users\jets01\RiderProjects\Event\EventApp\EventApp.Repository\bin\Debug\net7.0\EventApp.DTO.dll
+C:\Users\jets01\RiderProjects\Event\EventApp\EventApp.Repository\bin\Debug\net7.0\EventApp.Domain.pdb
+C:\Users\jets01\RiderProjects\Event\EventApp\EventApp.Repository\bin\Debug\net7.0\EventApp.DTO.pdb
+C:\Users\jets01\RiderProjects\Event\EventApp\EventApp.Repository\obj\Debug\net7.0\EventApp.Repository.csproj.AssemblyReference.cache
+C:\Users\jets01\RiderProjects\Event\EventApp\EventApp.Repository\obj\Debug\net7.0\EventApp.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jets01\RiderProjects\Event\EventApp\EventApp.Repository\obj\Debug\net7.0\EventApp.Repository.AssemblyInfoInputs.cache
+C:\Users\jets01\RiderProjects\Event\EventApp\EventApp.Repository\obj\Debug\net7.0\EventApp.Repository.AssemblyInfo.cs
+C:\Users\jets01\RiderProjects\Event\EventApp\EventApp.Repository\obj\Debug\net7.0\EventApp.Repository.csproj.CoreCompileInputs.cache
+C:\Users\jets01\RiderProjects\Event\EventApp\EventApp.Repository\obj\Debug\net7.0\EventApp.Repository.csproj.CopyComplete
+C:\Users\jets01\RiderProjects\Event\EventApp\EventApp.Repository\obj\Debug\net7.0\EventApp.Repository.dll
+C:\Users\jets01\RiderProjects\Event\EventApp\EventApp.Repository\obj\Debug\net7.0\refint\EventApp.Repository.dll
+C:\Users\jets01\RiderProjects\Event\EventApp\EventApp.Repository\obj\Debug\net7.0\EventApp.Repository.pdb
+C:\Users\jets01\RiderProjects\Event\EventApp\EventApp.Repository\obj\Debug\net7.0\ref\EventApp.Repository.dll
