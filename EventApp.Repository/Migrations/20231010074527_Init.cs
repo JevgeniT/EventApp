@@ -188,17 +188,17 @@ namespace Repository.Migrations
             migrationBuilder.InsertData(
                 table: "AspNetRoles",
                 columns: new[] { "Id", "ConcurrencyStamp", "Name", "NormalizedName" },
-                values: new object[] { "7a7e6695-ca59-4e14-b9cc-d4fe63d884ea", null, "Admin", "ADMIN" });
+                values: new object[] { "5c4890f2-7d44-482f-a8b9-42ca0033fd43", null, "Admin", "ADMIN" });
 
             migrationBuilder.InsertData(
                 table: "AspNetUsers",
                 columns: new[] { "Id", "AccessFailedCount", "ConcurrencyStamp", "Email", "EmailConfirmed", "LockoutEnabled", "LockoutEnd", "NormalizedEmail", "NormalizedUserName", "PasswordHash", "PhoneNumber", "PhoneNumberConfirmed", "SecurityStamp", "TwoFactorEnabled", "FirstName" },
-                values: new object[] { "9f418996-da47-4f66-aa7a-57dc985b9146", 0, "012f7271-0c52-4bb8-ae2a-71d69c680937", "test@test.com", false, false, null, "TEST@TEST.COM", "TEST@TEST.COM", "AQAAAAIAAYagAAAAEG+M4Y8MPltHsuQ68JBwNQTUoDRCpKwU4gAiRbkFlWFzy3M20Yxb/WOVz5McV0ON9Q==", null, false, "5d051570-bbc4-4668-916e-1789362fcc51", false, "test@test.com" });
+                values: new object[] { "07b40327-b8a2-40df-9a08-6d5755c82194", 0, "da14b3be-20ca-4581-b3ea-338206d33502", "test@test.com", false, false, null, "TEST@TEST.COM", "TEST@TEST.COM", "AQAAAAIAAYagAAAAELwHXhdrFGI3x4/iuqVCepXgP3hxMo11PIXsLXhxzFTXjudEmryZm9dbBU5BHeptJQ==", null, false, "bec5d4f4-8408-4d89-9603-d36cebad20a5", false, "test@test.com" });
 
             migrationBuilder.InsertData(
                 table: "AspNetUserRoles",
                 columns: new[] { "RoleId", "UserId" },
-                values: new object[] { "7a7e6695-ca59-4e14-b9cc-d4fe63d884ea", "9f418996-da47-4f66-aa7a-57dc985b9146" });
+                values: new object[] { "5c4890f2-7d44-482f-a8b9-42ca0033fd43", "07b40327-b8a2-40df-9a08-6d5755c82194" });
 
             migrationBuilder.CreateIndex(
                 name: "IX_AspNetRoleClaims_RoleId",

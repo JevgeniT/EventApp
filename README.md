@@ -9,5 +9,5 @@ Run with command line
 Accessible via `https://localhost:7012` where you should see SPA Proxy redirect message to `https://localhost:44496/`
 
 ### Issues
-+ No state managment
++ No state management
 + Partial Docker support

@@ -131,17 +131,17 @@ namespace Repository.Migrations
                     b.HasData(
                         new
                         {
-                            Id = "9f418996-da47-4f66-aa7a-57dc985b9146",
+                            Id = "07b40327-b8a2-40df-9a08-6d5755c82194",
                             AccessFailedCount = 0,
-                            ConcurrencyStamp = "012f7271-0c52-4bb8-ae2a-71d69c680937",
+                            ConcurrencyStamp = "da14b3be-20ca-4581-b3ea-338206d33502",
                             Email = "test@test.com",
                             EmailConfirmed = false,
                             LockoutEnabled = false,
                             NormalizedEmail = "TEST@TEST.COM",
                             NormalizedUserName = "TEST@TEST.COM",
-                            PasswordHash = "AQAAAAIAAYagAAAAEG+M4Y8MPltHsuQ68JBwNQTUoDRCpKwU4gAiRbkFlWFzy3M20Yxb/WOVz5McV0ON9Q==",
+                            PasswordHash = "AQAAAAIAAYagAAAAELwHXhdrFGI3x4/iuqVCepXgP3hxMo11PIXsLXhxzFTXjudEmryZm9dbBU5BHeptJQ==",
                             PhoneNumberConfirmed = false,
-                            SecurityStamp = "5d051570-bbc4-4668-916e-1789362fcc51",
+                            SecurityStamp = "bec5d4f4-8408-4d89-9603-d36cebad20a5",
                             TwoFactorEnabled = false,
                             UserName = "test@test.com"
                         });
@@ -175,7 +175,7 @@ namespace Repository.Migrations
                     b.HasData(
                         new
                         {
-                            Id = "7a7e6695-ca59-4e14-b9cc-d4fe63d884ea",
+                            Id = "5c4890f2-7d44-482f-a8b9-42ca0033fd43",
                             Name = "Admin",
                             NormalizedName = "ADMIN"
                         });
@@ -266,8 +266,8 @@ namespace Repository.Migrations
                     b.HasData(
                         new
                         {
-                            UserId = "9f418996-da47-4f66-aa7a-57dc985b9146",
-                            RoleId = "7a7e6695-ca59-4e14-b9cc-d4fe63d884ea"
+                            UserId = "07b40327-b8a2-40df-9a08-6d5755c82194",
+                            RoleId = "5c4890f2-7d44-482f-a8b9-42ca0033fd43"
                         });
                 });
 
